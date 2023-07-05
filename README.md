@@ -1,2 +1,2 @@
 Bot de discord Tsukasa
-[![Mi-proyecto.png](https://i.postimg.cc/3wxHWxLK/Mi-proyecto.png)](https://postimg.cc/FY86BN5q) 
+[![Tsukasa-Hiiragi.webp](https://i.postimg.cc/7Yc54jXt/Tsukasa-Hiiragi.webp)](https://postimg.cc/gnVzqSC3)
