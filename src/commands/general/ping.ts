@@ -7,7 +7,7 @@ import wait from 'node:timers/promises';
 export default {
     data: {
         name: 'ping',
-        description: 'Pong!',
+        description: 'Show my latency!',
     },
     opt: {
         userPermissions: ['SendMessages'],
