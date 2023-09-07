@@ -34,3 +34,5 @@ export default {
         });
     }
 } satisfies Command;
+
+//Comando de prueba
