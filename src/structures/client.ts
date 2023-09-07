@@ -1,3 +1,4 @@
+// owo
 import { Client, Collection, GatewayIntentBits } from 'discord.js';
 import { fileURLToPath, URL } from 'node:url';
 
