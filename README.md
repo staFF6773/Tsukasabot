@@ -2,6 +2,8 @@
   TsukasaBot
 </h1>
 
+[![lucky-star-banner.jpg](https://i.postimg.cc/QxSfmRhb/lucky-star-banner.jpg)](https://postimg.cc/svQPDHBQ)
+
 <p align="center">
   <a href="https://discord.gg/AU6xf2g9wX">
     <img src="https://img.shields.io/discord/718663089318527016?style=for-the-badge&colorB=1c86ee">
