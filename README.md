@@ -23,6 +23,8 @@
 
 - Moderación
 
+- Bienvenidas & Despedidas
+
 - Diversion
 
 - Utilidades
@@ -35,7 +37,7 @@
 
 El autohospedaje de TsukasaBot no es oficialmente compatible y esta es la única guía
 
-Discord.Js v13 es la única versión de Discord.js en la que se ha probado
+Discord.Js v14 es la única versión de Discord.js en la que se ha probado
 
 con una base de datos perfecta que esperas para añadir a tsukasa?
 
