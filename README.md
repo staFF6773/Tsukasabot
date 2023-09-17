@@ -48,4 +48,4 @@ con una base de datos perfecta que esperas para añadir a tsukasa?
 ### Links 🌐
 - **[Pagina web](https://tsukasabot.site/)** ⚙
 - **[Servidor de soporte](https://discord.gg/AU6xf2g9wX)** 🛰
--  **[Tsukasa API](https://github.com/api-tsukasa/tsukasa-api)** 💸
+- **[Tsukasa API](https://github.com/api-tsukasa/tsukasa-api)** 💸
