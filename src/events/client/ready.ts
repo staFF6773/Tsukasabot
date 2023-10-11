@@ -9,3 +9,5 @@ export default {
         console.log(`${client.user.username} is online`);
     }
 } satisfies Event<Events.ClientReady>;
+
+// lol
